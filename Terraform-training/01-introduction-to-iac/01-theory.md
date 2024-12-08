@@ -1,5 +1,7 @@
 # Introduction to Infrastructure Automation
 
+![iac_workflow](https://github.com/user-attachments/assets/4098c353-2eff-4892-b036-7fd91ce44294)
+
 ## Overview
 Infrastructure as Code (IaC) revolutionizes how we manage and provision infrastructure through machine-readable definition files rather than manual processes or traditional scripts.
 
