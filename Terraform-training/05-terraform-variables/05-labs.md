@@ -1,4 +1,5 @@
 # Terraform Variables - Labs
+https://github.com/MazharHuda/terraform-aws-s3-website/blob/master/Terraform-training/05-terraform-variables/05-diagrams/05-labs-diagrams/lab1_diagram.png
 
 ## Lab 1: Basic Variable Usage
 ### Objective
